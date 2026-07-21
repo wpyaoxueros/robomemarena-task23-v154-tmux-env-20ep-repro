@@ -23,6 +23,10 @@
 运行结果、视频名和外部产物哈希记录在 `history/RESULT.md`；不要根据仓库名推断成功或失败，
 必须以该文件、`summary.tsv` 和视频为准。
 
+正式 20ep（seed `105..124`）已完成：required-stage 全完成 `4/20`，平均 stage 分数
+`46.67%`。完整逐条结果、视频相对路径和所有 summary/manifest 哈希见
+`history/RESULT.md`。
+
 ## 内容
 
 - `run_task23_v154.sh`：固定本版本开关的入口。
